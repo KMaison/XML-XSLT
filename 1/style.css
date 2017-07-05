@@ -1,0 +1,60 @@
+table, td
+{
+    padding:3px;
+border:1px solid black;
+color:black;
+font-weight:700;
+background:rgba(252, 252, 252, 0.30);
+}
+
+.table_r
+{
+float:right;
+margin-right:350px;
+
+}
+.table_l
+{
+float:left;
+margin-left:625px;
+}
+.table_2
+{
+float:left;
+margin-left:490px;
+}
+.table_3
+{
+float:left;
+margin-left:580px;
+}
+
+img{
+    padding:20px;
+}
+body
+{
+	background-color: #921818;
+    color:black;
+    text-align:center;
+}
+
+h1
+{
+	text-align: center;
+    font-size:30px;
+    color:white;
+}
+h1
+{
+    font-size:25px;
+}
+
+a
+{
+color:rgba(252, 252, 252, 0.30);
+
+}
+
+
+

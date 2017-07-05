@@ -1,0 +1,51 @@
+table, td
+{
+    padding:3px;
+border:1px solid black;
+color:white;
+font-weight:700;
+background:rgba(252, 252, 252, 0.46);
+}
+
+.table_r
+{
+float:right;
+margin-right:350px;
+}
+.table_k
+{
+float:right;
+margin-right:450px;
+}
+
+
+img{
+    padding:20px;
+    float:left;
+    margin-left:200px;
+}
+body
+{
+	background-color: #587fe5;
+    color:white;
+    text-align:left;
+    	
+    font-size:25px;
+}
+
+h1
+{
+	
+    font-size:50px;
+    color:black;
+    text-align:center;
+}
+
+a
+{
+color:rgba(252, 252, 252, 0.30);
+
+}
+
+
+

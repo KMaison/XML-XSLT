@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Tyson.xsl"?>
+
+
+<Mike_Tyson data_debiutu="1985/03/06" wikipedia="https://pl.wikipedia.org/wiki/Mike_Tyson">
+  <zdjecie alt="Tyson.png">
+    <href>Tyson.png</href>
+  </zdjecie>
+  <podstawowe_informacje >
+    <imie_i_nazwisko>Michael Gerard Tyson</imie_i_nazwisko>
+    <pseudonim>Iron Mike</pseudonim>
+    <kategoria_wagowa>ciężka</kategoria_wagowa>
+    <data_urodzenia>1966-06-30</data_urodzenia>
+    <miejsce_urodzenia>Nowy Jork</miejsce_urodzenia>
+  </podstawowe_informacje>
+  <warunki_fizyczne>
+    <wzrost>178</wzrost>
+    <zasieg_ramion>180</zasieg_ramion>
+    <waga>96-109</waga>
+  </warunki_fizyczne>
+  <bilans>
+    <liczba_walk>58</liczba_walk>
+    <wygrane>50</wygrane>
+    <przegrane>6</przegrane>
+    <remisy>0</remisy>
+  </bilans>
+  <osiagniecia>
+    <tytuly>
+      <tytuul> <rok>1982</rok><tytul>Junior Heavyweight Champion Igrzyska Olimpijskie</tytul>
+      </tytuul>
+      <tytuul>
+        <rok>1984</rok><tytul>Narodowy Golden Gloves Champion Heavyweight</tytul>
+      </tytuul>
+      <tytuul>
+        <rok>1990</rok><tytul>Niekwestionowany mistrz wagi ciężkiej (który zdobył wszystkie trzy pasy mistrzostw WBA, IBF i WBC)</tytul>
+      </tytuul>
+    </tytuly>
+    <nagrody>
+     
+      <naagrody><rok>1989</rok><tytul>BBC Sports Personality of the Year Overseas Personality</tytul></naagrody>
+      
+        <naagrody>
+          <rok>1986</rok>
+          <tytul>Ring Magazine Fighter of the Year</tytul>
+        </naagrody>
+        <naagrody><rok>1985</rok><tytul>Ring magazynie „Prospect of the Year”</tytul></naagrody>
+    </nagrody>
+  </osiagniecia>
+  <walki>
+    <walka wynik="przegrana Tysona">
+      <data>1996-01-09</data>
+      <miejsce_walki>
+        <państwo>USA/Nevada</państwo>
+        <miasto>Paradise</miasto>
+      </miejsce_walki>
+      <przeciwnik imieinazwisko="Evander Holyfield" wikipedia="https://pl.wikipedia.org/wiki/Evander_Holyfield">
+        <zdjecie alt="EvanderHolyfield.jpeg">
+          <href>EvanderHolyfield.jpeg</href>
+        </zdjecie>
+        <pseudonim>The Real Deal</pseudonim>
+        <liczba_walk>55</liczba_walk>
+        <wygrane>43</wygrane>
+        <przegrane>10</przegrane>
+        <remisy>2</remisy>
+        <warunki_fizyczne>
+          <wzrost>189</wzrost>
+          <zasieg_ramion>189</zasieg_ramion>
+          <waga>80-100</waga>
+        </warunki_fizyczne>
+      </przeciwnik>
+      <ciekawostki>
+        <ciekawostka>Tyson podczas rewanżu odgryzł kawałek ucha Evandera Holyfielda</ciekawostka>
+    </ciekawostki>
+        </walka>
+    <walka wynik="przegrana Tysona">
+      <data>2002</data>
+      <miejsce_walki>
+        <państwo>USA/Tennessee</państwo>
+        <miasto>Memphis</miasto>
+      </miejsce_walki>
+      <przeciwnik imieinazwisko="Lennox Lewis" wikipedia="https://pl.wikipedia.org/wiki/Lennox_Lewis">
+        <zdjecie alt="Lennox_1826361a.jpg">
+          <href>Lennox_1826361a.jpg</href>
+        </zdjecie>
+        <pseudonim>The Lion</pseudonim>
+
+        <liczba_walk>44</liczba_walk>
+        <wygrane>41</wygrane>
+        <przegrane>2</przegrane>
+        <remisy>1</remisy>
+
+        <warunki_fizyczne>
+          <wzrost>196</wzrost>
+          <zasieg_ramion>213</zasieg_ramion>
+          <waga>100-116</waga>
+        </warunki_fizyczne>
+      </przeciwnik>
+      <ciekawostki>
+      <ciekawostka>Lennox Lewis był ówczesnym mistrzem świata wagi ciężkiej</ciekawostka>
+      </ciekawostki>
+        </walka>
+    <walka wynik="wygrana Tysona">
+      <data>1987</data>
+      <miejsce_walki>
+        <państwo>USA/Nevada</państwo>
+        <miasto>Paradise</miasto>
+      </miejsce_walki>
+      <przeciwnik imieinazwisko=" Tony Tucker" wikipedia="https://en.wikipedia.org/wiki/Tony_Tucker">
+        <zdjecie alt="Tonytucker.jpg">
+          <href>Tonytucker.jpg</href>
+        </zdjecie>
+        <pseudonim>TNT</pseudonim>
+
+        <liczba_walk>66</liczba_walk>
+        <wygrane>57</wygrane>
+        <przegrane>7</przegrane>
+        <remisy>1</remisy>
+
+        <warunki_fizyczne>
+          <wzrost>196</wzrost>
+          <zasieg_ramion>208</zasieg_ramion>
+          <waga>100-116</waga>
+        </warunki_fizyczne>
+      </przeciwnik>
+    <ciekawostki>
+        <ciekawostka>Postać Tony'ego Tuckera pojawiła się w filmie "Zawód Gangster"</ciekawostka>
+    </ciekawostki>
+   </walka>
+  </walki>
+  <filmografia ile_nominacji="2">
+    <film tytul_filmu="Tyson">
+      <rok_premiery>2008</rok_premiery>
+      <ile_nominacji>2</ile_nominacji>
+      <ile_nagrod>0</ile_nagrod>
+    </film>
+    <film tytul_filmu="Kac Vegas">
+      <rok_premiery>2009</rok_premiery>
+      <ile_nominacji>26</ile_nominacji>
+      <ile_nagrod>1</ile_nagrod>
+    </film>
+    <film tytul_filmu="Kac Vegas w Bangkoku">
+      <rok_premiery>2011</rok_premiery>
+      <ile_nominacji>10</ile_nominacji>
+      <ile_nagrod>0</ile_nagrod>
+    </film>
+    <film tytul_filmu="Mike Tyson szczery do bólu">
+      <rok_premiery>2013</rok_premiery>
+      <ile_nominacji>4</ile_nominacji>
+      <ile_nagrod>0</ile_nagrod>
+    </film>
+  </filmografia>
+</Mike_Tyson>
